@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style> 
+      @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 300;
+        src: url('OpenSans-Light.ttf');
+      }
+    
+      @font-face {
+        font-family: 'Open Sans';
+        font-style: normal;
+        font-weight: 400;
+        src: url('OpenSans-Regular.ttf');
+      }  
+        
+      html {
+        -webkit-text-size-adjust: none;
+      }
+    
+      body { 
+        font-family: 'Open Sans', sans-serif;
+        padding-left: 0.7em;
+        padding-right: 0.7em;
+      }
+    
+      #title {
+        font-weight: 400;
+        font-size: 1.6em;
+        padding-bottom: 10px;
+      }
+    
+      #properties dt {
+        font-weight: 300;
+        color:#666;
+      }
+    
+      #properties dd {
+        font-weight: 400;      
+        margin-bottom: 0.6em;
+        margin-left: 1em;
+      }
+    
+      #description {
+        -webkit-column-width: 15em;
+        -webkit-column-gap: 2em;
+        font-weight: 300;
+        line-height: 1.5em;
+        text-align: justify;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="title">%@</div>
+    %@
+    <dl id="properties">%@</dl>
+    <p id="description">%@</p>
+  </body>
+</html>
