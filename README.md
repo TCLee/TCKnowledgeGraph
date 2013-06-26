@@ -1,9 +1,9 @@
 #TCKnowledgeGraph
 
-![Search Suggestions Screenshot](README-Images/Screenshot01.png "Search Suggestions") 
-![Bob Dylan Screenshot](README-Images/Screenshot02.png "Bob Dylan") 
-![Eiffel Tower Screenshot](README-Images/Screenshot03.png "Eiffel Tower") 
-![Mona Lisa Screenshot](README-Images/Screenshot04.png "Mona Lisa")
+![Search Suggestions Screenshot](README-Images/Screenshot01.png "Search Suggestions")&nbsp; 
+![Bob Dylan Screenshot](README-Images/Screenshot02.png "Bob Dylan")&nbsp; 
+![Eiffel Tower Screenshot](README-Images/Screenshot03.png "Eiffel Tower")&nbsp; 
+![Mona Lisa Screenshot](README-Images/Screenshot04.png "Mona Lisa")&nbsp;
 
 This sample iOS app uses the API provided by Freebase to search and fetch topics from its giant knowledge graph. 
 This app also makes use of the Wikipedia API to pull in images that are currently missing from Freebase's database.
