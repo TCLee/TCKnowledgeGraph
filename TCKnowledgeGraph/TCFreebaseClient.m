@@ -8,6 +8,10 @@
 
 #import "TCFreebaseClient.h"
 
+/* 
+ You can register for an API key at https://code.google.com/apis/console‎
+ Google allows for a limit of 100,000 requests/day.
+ */
 static NSString * const API_KEY = @"AIzaSyBbsocrvsnfJPPC7Um7eY67hPUAYVsp41Y";
 static NSString * const SERVICE_URL = @"https://www.googleapis.com/freebase/v1/";
 
