@@ -4,10 +4,10 @@
 This app also makes use of the _Wikipedia_ API to pull in images that are currently missing from Freebase's database.
 
 <br>
-![Search Suggestions Screenshot](README-Images/Screenshot01.png "Search Suggestions")&nbsp;&nbsp;
-![Bob Dylan Screenshot](README-Images/Screenshot02.png "Bob Dylan")&nbsp;&nbsp;
-![Eiffel Tower Screenshot](README-Images/Screenshot03.png "Eiffel Tower")&nbsp;&nbsp; 
-![Mona Lisa Screenshot](README-Images/Screenshot04.png "Mona Lisa")&nbsp;&nbsp;
+![Search Suggestions Screenshot](http://tclee.github.io/TCKnowledgeGraph/images/screenshot-1.png "Search Suggestions")&nbsp;&nbsp;
+![Bob Dylan Screenshot](http://tclee.github.io/TCKnowledgeGraph/images/screenshot-2.png "Bob Dylan")&nbsp;&nbsp;
+![Eiffel Tower Screenshot](http://tclee.github.io/TCKnowledgeGraph/images/screenshot-3.png "Eiffel Tower")&nbsp;&nbsp; 
+![Mona Lisa Screenshot](http://tclee.github.io/TCKnowledgeGraph/images/screenshot-4.png "Mona Lisa")&nbsp;&nbsp;
 
 ###Build Requirements
 <dl style="margin-left: -1em;">
