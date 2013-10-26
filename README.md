@@ -3,10 +3,11 @@
 **TCKnowledgeGraph** is a sample iOS app that uses the API provided by _Freebase_ to search and fetch topics from its giant knowledge graph. 
 This app also makes use of the _Wikipedia_ API to pull in images that are currently missing from Freebase's database.
 
-![Search Suggestions Screenshot](README-Images/Screenshot01.png "Search Suggestions")&nbsp;
-![Bob Dylan Screenshot](README-Images/Screenshot02.png "Bob Dylan")&nbsp; 
-![Eiffel Tower Screenshot](README-Images/Screenshot03.png "Eiffel Tower")&nbsp; 
-![Mona Lisa Screenshot](README-Images/Screenshot04.png "Mona Lisa")&nbsp;
+<br>
+![Search Suggestions Screenshot](README-Images/Screenshot01.png "Search Suggestions")&nbsp;&nbsp;
+![Bob Dylan Screenshot](README-Images/Screenshot02.png "Bob Dylan")&nbsp;&nbsp;
+![Eiffel Tower Screenshot](README-Images/Screenshot03.png "Eiffel Tower")&nbsp;&nbsp; 
+![Mona Lisa Screenshot](README-Images/Screenshot04.png "Mona Lisa")&nbsp;&nbsp;
 
 ###Build Requirements
 <dl style="margin-left: -1em;">
